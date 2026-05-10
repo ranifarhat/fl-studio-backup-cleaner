@@ -1,0 +1,10 @@
+2025-08-28 22:23:50,928 | INFO | log file: C:\Users\ranif\Desktop\Projects\CompSProjects\fl_backup_cleaner\src\logs\fl_backup_cleaner_20250828_222350.log
+2025-08-28 22:24:23,856 | INFO | scan start: C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\A#m114 proj1
+2025-08-28 22:24:34,236 | INFO | scan start: C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing
+2025-08-28 22:24:57,602 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\A#m114 proj1\backup removed=0 errors=0
+2025-08-28 22:24:57,603 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\CM98 aadwb_\backup removed=0 errors=0
+2025-08-28 22:24:57,604 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\Fm132 proj2\backup removed=0 errors=0
+2025-08-28 22:26:15,987 | INFO | scan start: C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing
+2025-08-28 22:26:20,936 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\A#m114 proj1\backup removed=1 errors=0
+2025-08-28 22:26:20,937 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\CM98 aadwb_\backup removed=0 errors=0
+2025-08-28 22:26:20,937 | INFO | cleaned C:\Users\ranif\Desktop\Projects\CompSProjects\flbc testing\Fm132 proj2\backup removed=0 errors=0
